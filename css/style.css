@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.urna {
+    background-color: white;
+    padding: 30px;
+    display: flex;
+}
+
+.tela {
+    width: 500px;
+    height: 320px;
+    background: linear-gradient(to right, white, gray);
+}
+
+.teclado {
+    background-color: black;
+}
